@@ -4,7 +4,7 @@ pwd='admin'
 #your router IP address
 ip='http://192.168.11.1/'
 
-#Here is the url that points to the statistics page, you can sort the changing the value of sortType:
+#Here is the url that points to the statistics page, you can sort the data by changing the value of sortType:
 #1 ip address, 2 total packets, 3 total bytes, 4 total packets, 5 total bytes
 
 url='userRpm/SystemStatisticRpm.htm?interval=5&Refresh=Refresh&sortType=5&Num_per_page=100'
